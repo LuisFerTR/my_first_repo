@@ -1,28 +1,17 @@
-# This is a large heading
+# Luis Talavera
 
-## This is a smaller heading
+### Geografía
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Vivo en Santiago de Querétaro, Querétaro en México.
 
-- This is
-- an unordered
-- list
+### Lectura
 
-1. This is
-2. an ordered
-3. list
+Algunos de mis libros favoritos son:
+- El príncipe de Nicolás Maquiavelo.
+- Mentes maravillosas de Ian Stewart.
+- La Isla del Tesoro de Robert Louis Stevenson.
 
-Here is `some code` in the middle of a sentence.
+### Deportes
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](http://images5.fanpop.com/image/photos/31000000/Random-funny-looney-tunes-penelope3six-31000859-323-270.gif)
+Me encanta jugar básquet.
+![Básquetbol](https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0111%2Fr43077_1296x729_16%2D9.jpg)
